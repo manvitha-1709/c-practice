@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Manvitha/C_Practice/ex4'
+relocations:     []
+...
