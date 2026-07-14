@@ -5,7 +5,7 @@ int main()
 {
     int a[3][3], b[3][3], mul[3][3], i, j, k;
     system("clear");
-    printf("enter elements if 1st matrix:\n");
+    printf("enter elements of 1st matrix:\n");
     for (i = 0; i < 3; i++)
     {
         for (j = 0; j < 3; j++)
